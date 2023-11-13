@@ -1,0 +1,85 @@
+h1{
+    /* zvet teksta */
+    color: blueviolet;
+    /* rasmer teksta */
+    font-size: 16px;
+    /* zirnost schrifta*/
+    font-weight: lighter;
+    text-align: justify;
+    
+}
+
+p{
+    color: red;
+}
+
+/* selectors
+    1.tag name
+    2.class
+    3.id
+    */
+
+    .changecolor{
+        color: green;
+    }
+
+
+   .p2{
+    font-size: 20px;
+   } 
+
+   .changesize{
+    font-size: 25px;
+   }
+/* #idname */
+   #p4{
+    color:aliceblue;
+    font-weight: bold;
+
+   }
+
+   #p5{
+    text-decoration: underline;
+   }
+
+   p{
+    color: brown
+   }
+
+   .black{
+    color: black;
+   }
+   .red{
+    color: red;
+   }
+
+    .text_styles{
+        color: darkblue;
+        font-size: 20px;
+        font-weight: 300;
+        text-decoration: underline;
+        text-align: justify;
+        /* otstyp mezdy strokami  */
+        line-height: 40px;
+        /* otstyp pervoi stroki*/
+        text-indent: 30px;
+        /* nachertanie texta-kyrsiv*/
+        font-style: italic;
+        /* shirina */
+        width: 400px;
+    }
+
+    .block1{
+        width: 400px;
+        height: 600px;
+        background-color: yellow;
+        border: 5px solid blue;
+        border-width: 5px;
+        border-style: solid;
+        border-color: red;
+    }
+   
+    .img1{
+        width: 300px;
+        height: 200px;
+    }
